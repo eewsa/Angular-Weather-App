@@ -1,6 +1,6 @@
 {
-  "name": "angular",
-  "version": "0.0.0",
+  "name": "weather-app-deiby-montoya",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@angular/animations": "^13.2.0",
